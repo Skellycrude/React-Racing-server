@@ -1,0 +1,43 @@
+# ---------------[ UE4 generated ]------------------ #
+/Build
+/DerivedDataCache
+
+/Intermediate
+
+/Saved
+
+/Plugins/MatchmakingServer/Intermediate
+/Plugins/PlayFab/Intermediate
+/Plugins/UINavigation/Intermediate
+
+# ----[ Visual Studio ]------- #
+/.vs
+*.svd
+*.pidb
+*.VC.db
+
+*.opensdf
+
+*.opendb
+
+*.sdf
+
+*.sln
+
+*.suo
+
+*.xcodeproj
+
+*.xcworkspace
+
+# -------------[ OS generated ]------------------------ #
+.DS_Store
+.DS_Store?
+ehthumbs.db
+Thumbs.db
+
+# -------------[ Jetbrains ]------------------------ #
+/.idea
+
+# -------------[ Other ]------------------------ #
+CreateClient.bat

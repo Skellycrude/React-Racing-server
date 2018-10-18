@@ -1,0 +1,26 @@
+{
+	"FileVersion": 3,
+	"Version": 3,
+	"VersionName": "1.2",
+	"FriendlyName": "MatchmakingServer",
+	"Description": "C++ functionality, needed for the MatchmakingServer",
+	"Category": "Networking",
+	"CreatedBy": "Robin Zinser",
+	"CreatedByURL": "",
+	"DocsURL": "http://webfactory-zweinull.de/download/UE4_Matchmaking/MatchmakingServer_Documentation.pdf",
+	"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/content/160023079f484af0836bf54b4c355b55",
+	"SupportURL": "",
+	"CanContainContent": true,
+	"Installed": true,
+	"Modules": [
+		{
+			"Name": "Matchmaking",
+			"Type": "Runtime",
+			"LoadingPhase": "Default",
+			"WhitelistPlatforms": [
+				"Win64",
+				"Win32"
+			]
+		}
+	]
+}
