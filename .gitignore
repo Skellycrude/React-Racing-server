@@ -1,13 +1,20 @@
 # ---------------[ UE4 generated ]------------------ #
+/Binaries/Android
+/Binaries/IOS
 /Build
 /DerivedDataCache
 
 /Intermediate
 
 /Saved
-
+/Plugins/MatchmakingServer/Binaries/Android
+/Plugins/MatchmakingServer/Binaries/IOS
 /Plugins/MatchmakingServer/Intermediate
+/Plugins/PlayFab/Binaries/Android
+/Plugins/PlayFab/Binaries/IOS
 /Plugins/PlayFab/Intermediate
+/Plugins/UINavigation/Binaries/Android
+/Plugins/UINavigation/Binaries/IOS
 /Plugins/UINavigation/Intermediate
 
 # ----[ Visual Studio ]------- #

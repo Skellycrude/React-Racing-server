@@ -17,10 +17,12 @@
 			"Name": "Matchmaking",
 			"Type": "Runtime",
 			"LoadingPhase": "Default",
-			"WhitelistPlatforms": [
-				"Win64",
-				"Win32"
-			]
+      "WhitelistPlatforms": [
+        "Win64",
+        "Win32",
+        "Android",
+        "IOS"
+      ]
 		}
 	]
 }
