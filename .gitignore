@@ -1,4 +1,5 @@
 # ---------------[ UE4 generated ]------------------ #
+/Binaries
 /Binaries/Android
 /Binaries/IOS
 /Build
@@ -7,12 +8,15 @@
 /Intermediate
 
 /Saved
+/Plugins/MatchmakingServer/Binaries
 /Plugins/MatchmakingServer/Binaries/Android
 /Plugins/MatchmakingServer/Binaries/IOS
 /Plugins/MatchmakingServer/Intermediate
+/Plugins/PlayFab/Binaries
 /Plugins/PlayFab/Binaries/Android
 /Plugins/PlayFab/Binaries/IOS
 /Plugins/PlayFab/Intermediate
+/Plugins/UINavigation/Binaries
 /Plugins/UINavigation/Binaries/Android
 /Plugins/UINavigation/Binaries/IOS
 /Plugins/UINavigation/Intermediate
